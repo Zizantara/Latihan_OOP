@@ -13,7 +13,7 @@ Kelas : TI 24,A.3
 
 <img src="mahasiswa.png">
 
-### Program > view > imput_form.py
+### Program > view > input_form.py
 
 <img src="inputform.png">
 
